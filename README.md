@@ -35,6 +35,8 @@ and Tracking, employing the U-Net algorithm.
    </p>
 
 ## Implementation and Design
+- A project consisting of three pages on the main where the map and image capture are located, the analysis page through which the mask for the image and the proportion of sea and land can be obtained, and the tracking page through which the difference between places can be tracked at certain time periods.
+<\br>
  <p align="center">
      <img src="Resources\Analysis_result.png"  height="550px" width="860px">
      <img src="Resources\Trace_result.png"  height="550px" width="860px">
