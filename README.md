@@ -28,3 +28,7 @@ and Tracking, employing the U-Net algorithm.
    <p align="center">
     <img src="Resources\u-net-architecture.png"  height="550px" width="500px">
    </p>
+## System Methodology
+   <p align="center">
+    <img src="Resources\u-net-architecture.png"  height="550px" width="600px">
+   </p>
