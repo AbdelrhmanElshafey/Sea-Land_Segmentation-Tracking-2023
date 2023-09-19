@@ -12,4 +12,5 @@ Additionally, it can predict potential events such as Reducing the expected prob
 droughts, and other related problems. This will be achieved through the use of AI for Satellite Image Segmentation 
 and Tracking, employing the U-Net algorithm.
 
- ## System Architecture ### (Four Steps)
+ ## System Architecture 
+ ### (Four Steps)
