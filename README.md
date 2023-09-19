@@ -17,5 +17,5 @@ and Tracking, employing the U-Net algorithm.
   ##### 1. Google Earth Dataset: 210 images and masks.
   ##### 2. Images: 3-band, 1000×1000, 3~5m resolution.
   ##### 3. Random sampling: 256×256 patches, 13,563 perdatase.
-  <img src="Resources\Picture1.png"  height="165px" width="320px">
+  <img src="Resources\Picture1.jpg"  height="165px" width="320px">
   
