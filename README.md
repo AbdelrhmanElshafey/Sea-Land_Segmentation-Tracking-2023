@@ -28,7 +28,14 @@ and Tracking, employing the U-Net algorithm.
    <p align="center">
     <img src="Resources\u-net-architecture.png"  height="550px" width="600px">
    </p>
+   
 ## System Methodology
    <p align="center">
     <img src="Resources\Picture3.png"  height="550px" width="660px">
    </p>
+
+## Implementation and Design
+ <p align="center">
+     <img src="Resources\Analysis_result.png"  height="550px" width="660px">
+     <img src="Resources\Trace_result.png"  height="550px" width="660px">
+ </p>
