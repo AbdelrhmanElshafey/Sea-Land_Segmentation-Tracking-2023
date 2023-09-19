@@ -36,6 +36,6 @@ and Tracking, employing the U-Net algorithm.
 
 ## Implementation and Design
  <p align="center">
-     <img src="Resources\Analysis_result.png"  height="550px" width="660px">
-     <img src="Resources\Trace_result.png"  height="550px" width="660px">
+     <img src="Resources\Analysis_result.png"  height="550px" width="860px">
+     <img src="Resources\Trace_result.png"  height="550px" width="860px">
  </p>
