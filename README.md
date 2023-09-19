@@ -13,4 +13,5 @@ droughts, and other related problems. This will be achieved through the use of A
 and Tracking, employing the U-Net algorithm.
 
  ## System Architecture 
- ### (Four Steps)
+- ***Data Collection and Preparation:***
+-- ahmed
