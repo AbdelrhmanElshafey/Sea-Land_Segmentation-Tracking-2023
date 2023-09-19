@@ -26,6 +26,5 @@ and Tracking, employing the U-Net algorithm.
   ##### 2. Versatile: Handles variations, limiteddata requirements.
   ##### 3. Evaluate Model for deploymentand improvement.
   <p align="center">
-   <img src="Resources\u-net-architecture.png"  height="500px" width="400px">
-   <img src="Resources\Picture2.jpg"  height="225px" width="385px">
+   <img src="Resources\u-net-architecture.png"  height="550px" width="470px">
   </p>
