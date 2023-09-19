@@ -14,4 +14,4 @@ and Tracking, employing the U-Net algorithm.
 
  ## System Architecture 
 - ***Data Collection and Preparation:***
-- #### 1.Google Earth Dataset:210 images and masks
+  #### 1.Google Earth Dataset:210 images and masks
