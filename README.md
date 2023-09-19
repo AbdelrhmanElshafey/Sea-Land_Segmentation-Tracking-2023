@@ -30,5 +30,5 @@ and Tracking, employing the U-Net algorithm.
    </p>
 ## System Methodology
    <p align="center">
-    <img src="Resources\Picture3.jpg"  height="550px" width="660px">
+    <img src="Resources\Picture3.png"  height="550px" width="660px">
    </p>
