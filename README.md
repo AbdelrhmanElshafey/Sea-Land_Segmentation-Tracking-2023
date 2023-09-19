@@ -14,4 +14,6 @@ and Tracking, employing the U-Net algorithm.
 
  ## System Architecture 
 - ***Data Collection and Preparation:***
-  ##### 1. Google Earth Dataset:210 images and masks.
+  ##### 1. Google Earth Dataset: 210 images and masks.
+  ##### 2. Images: 3-band, 1000×1000, 3~5m resolution.
+  ##### 3. Random sampling: 256×256 patches, 13,563 perdatase.
