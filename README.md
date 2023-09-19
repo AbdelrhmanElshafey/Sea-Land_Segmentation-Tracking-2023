@@ -1,4 +1,4 @@
-# <a style="width:50px;height:50px"><img src="Resources\logo_blue.png.png"  height="300px" width="300px" > Sea-Land_Segmentation-Tracking Using AI-2023 🌍🌟
+# <a style="width:50px;height:50px"><img src="Resources\logo_blue.png"  height="300px" width="300px" > Sea-Land_Segmentation-Tracking Using AI-2023 🌍🌟
 
 ![](https://img.shields.io/badge/License-MIT-blue)![](https://img.shields.io/badge/Version-v1-blue)
 
