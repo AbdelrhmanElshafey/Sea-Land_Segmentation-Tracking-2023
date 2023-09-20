@@ -41,9 +41,10 @@ and Tracking, employing the U-Net algorithm.
      <b>U-NET ARCHITECTURE</b>
    </p>
    
-## System Methodology
+## System Analysis 📊
    <p align="center">
     <img src="Resources\Picture3.png"  height="550px" width="660px">
+    <img src="Resources\use_case"  height="550px">
    </p>
    
 
