@@ -62,3 +62,5 @@ and Tracking, employing the U-Net algorithm.
      </p>
      <img src="Resources\Trace_result.png">
  </p>
+
+## Packages and Technologies 💻
