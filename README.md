@@ -1,8 +1,8 @@
-# <img src="Resources\logo_blue.jpg"  height="100px" width="200px"> Sea-Land_Segmentation-Tracking Using AI 🌍
+# <img src="Resources\logo_blue.png"  height="100px" width="200px"> Sea-Land_Segmentation-Tracking Using AI 🌍
 
 ![](https://img.shields.io/badge/License-MIT-blue)![](https://img.shields.io/badge/Version-v1-blue)
 
-![HOME PAGE](Resources\home_page.png)
+![HOME PAGE](Resources\home_page.jpg)
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
