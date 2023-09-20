@@ -46,7 +46,7 @@ and Tracking, employing the U-Net algorithm.
    <br>
    
    <p align="center">
-    <img src="Resources\acc.jpg" width="385px">
+    <img src="Resources\acc.jpg" width="365px">
    </p>
    <p align="center">
      <b>ACCURACY</b>
