@@ -118,7 +118,7 @@ and Tracking, employing the U-Net algorithm.
 
 ## [Demo](https://drive.google.com/file/d/1EX-njPd3xm7-f_jh0lIZhdU5PdEnBTyv/view?usp=sharing) 📽️
  <p align="center">
-    <img src="Resources\qr_code_demo.png"  height="500px" width="500px">
+    <img src="Resources\qr_demo.png"  height="500px" width="500px">
  </p>
  
  <br>
