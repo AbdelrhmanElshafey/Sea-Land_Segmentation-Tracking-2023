@@ -29,7 +29,7 @@ and Tracking, employing the U-Net algorithm.
     <img src="Resources\u-net-architecture.png"  height="550px" width="600px">
    </p>
    <p align="center">
-    <b>U-NET ARCHITECTURE</b>
+     <b>U-NET ARCHITECTURE</b>
    </p>
    
 ## System Methodology
@@ -42,7 +42,13 @@ and Tracking, employing the U-Net algorithm.
 - A project consisting of three pages on the main where the map and image capture are located, the analysis page through which the mask for the image and the proportion of sea and land can be obtained, and the tracking page through which the difference between places can be tracked at certain time periods.
 <br>
  <p align="center">
+     <p>
+       <b>ANALSIS RESULT</b>
+     </p>
      <img src="Resources\Analysis_result.png"  height="500px" width="890px">
-     <br>
+     
+     <p>
+       <b>TRACKING RESULT</b>
+     </p>
      <img src="Resources\Trace_result.png"  height="500px" width="890px">
  </p>
