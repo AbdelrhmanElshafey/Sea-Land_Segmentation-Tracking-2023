@@ -46,7 +46,8 @@ and Tracking, employing the U-Net algorithm.
        <b>ANALSIS RESULT</b>
      </p>
      <img src="Resources\Analysis_result.png"  height="500px" width="890px">
-     
+ </p>
+ <p align="center">    
      <p>
        <b>TRACKING RESULT</b>
      </p>
