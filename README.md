@@ -3,14 +3,15 @@
 
 # Sea-Land_Segmentation-Tracking Using AI 🌍📡
 
-![](https://img.shields.io/badge/License-MIT-blue)![](https://img.shields.io/badge/Version-v1-blue)
 
 <p align="center">
      <img src="Resources\home_page.jpg">
       <p align="center">
        <b>HOME PAGE</b>
      </p>
- </p
+ </p>
+ 
+![](https://img.shields.io/badge/License-MIT-blue)![](https://img.shields.io/badge/Version-v1-blue)
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
@@ -94,9 +95,12 @@ and Tracking, employing the U-Net algorithm.
 - [NumPy](https://numpy.org/) 🔢:  is a fundamental library for numerical computing in Python. It provides support for arrays and matrices, which are often used in machine learning and image processing tasks.
 - [Segmentation Models Library](https://github.com/qubvel/segmentation_models) 🖼️🧠: This library provides pre-built deep learning models for image segmentation tasks. You can use these models as a starting point for your sea-land segmentation model.
 - [TensorFlow](https://www.tensorflow.org/) and [Keras](https://keras.io/) 🧠🤖:TensorFlow is an open-source deep learning framework, and Keras is an API that runs on top of it. Together, they provide a powerful platform for building and training neural networks, including image segmentation models.
-  
+
+<br>
+
   <p align="center">    
      <img src="Resources\tools.jpg">
  </p>
  
- <br>
+
+<br>
