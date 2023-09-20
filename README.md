@@ -121,7 +121,7 @@ and Tracking, employing the U-Net algorithm.
     <img src="Resources\qr_code_demo.png"  height="500px" width="500px">
  </p>
  
- <br?
+ <br>
 
 ## Project Team 👨‍🎓💪
 - [**Abdelrhman Elshafey**](https://github.com/AbdelrhmanElshafey)
