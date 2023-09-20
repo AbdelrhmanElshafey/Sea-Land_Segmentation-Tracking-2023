@@ -35,11 +35,19 @@ and Tracking, employing the U-Net algorithm.
    ##### 1. U-Net: Robust, boundary-focused sea-land segmentation.
    ##### 2. Versatile: Handles variations, limiteddata requirements.
    ##### 3. Evaluate Model for deploymentand improvement.
+   
    <p align="center">
     <img src="Resources\u-net-architecture.png"  height="550px" width="600px">
    </p>
    <p align="center">
      <b>U-NET ARCHITECTURE</b>
+   </p>
+
+   <p align="center">
+    <img src="Resources\acc.jpg">
+   </p>
+   <p align="center">
+     <b>ACCURACY</b>
    </p>
    
 ## System Analysis 📊
