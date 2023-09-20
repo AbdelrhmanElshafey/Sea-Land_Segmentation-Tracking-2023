@@ -80,4 +80,10 @@ and Tracking, employing the U-Net algorithm.
      <img src="Resources\Trace_result.png">
  </p>
 
-## Packages and Technologies 💻
+## Packages and Technologies 🔍💻
+- [Xd (Adobe XD)](https://helpx.adobe.com/support/xd.html)🎨: Adobe XD is a powerful design and prototyping tool. It's crucial for designing the graphical user interface (GUI) of your application, allowing you to create visually appealing and user-friendly interfaces. You can design and prototype the layout of your application screens before implementing them.
+- [PyCharm]([https://kotlinlang.org/](https://www.jetbrains.com/pycharm/))🐍:  is an Integrated Development Environment (IDE) for Python. It provides a development environment for coding, debugging, and running Python applications, including GUIs. PyCharm's code editor and debugging tools make the development process more efficient.
+- [Django](https://www.djangoproject.com/): Web framework for building web applications using the Python, we use it to build backend
+- [Django REST Framework](https://www.django-rest-framework.org/): Powerful and flexible toolkit for building Web APIs.
+- [scikit-learn](https://scikit-learn.org/stable/): Simple and efficient tools for predictive data analysis
+- [pandas](https://pandas.pydata.org/): Is a fast, powerful, flexible and easy to use open source data analysis
