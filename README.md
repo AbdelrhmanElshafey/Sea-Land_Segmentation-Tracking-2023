@@ -117,5 +117,22 @@ and Tracking, employing the U-Net algorithm.
 <br>
 
 ## Project Team 👨‍🎓💪
-- [**Abdelrhman Elshafey**](https://github.com/AbdelrhmanElshafey)  [<img src="Resources\facebook.png" align="center" height="20" width="20"  >](https://www.facebook.com/AbdalrhmanElshafey)
-[<img src="Resources\linkedin.png" align="center" height="20" width="20"  >](https://www.linkedin.com/in/abdelrhman-elshafey-3342951b3/)
+- [**Abdelrhman Elshafey**](https://github.com/AbdelrhmanElshafey)
+  [<img src="Resources\facebook.png" align="center" height="20" width="20"  >](https://www.facebook.com/AbdalrhmanElshafey)
+  [<img src="Resources\linkedin.png" align="center" height="20" width="20"  >](https://www.linkedin.com/in/abdelrhman-elshafey-3342951b3/)
+  
+- [**Diaa Rozik**](https://github.com/diaarozik)
+  [<img src="Resources\facebook.png" align="center" height="20" width="20"  >](https://www.facebook.com/diaa.salah.982982)
+  [<img src="Resources\linkedin.png" align="center" height="20" width="20"  >](https://www.linkedin.com/in/diaa-rozik-979ba3214/)
+  
+- [**Omar Khaled**](https://github.com/AbdelrhmanElshafey)
+  [<img src="Resources\facebook.png" align="center" height="20" width="20"  >](https://www.facebook.com/profile.php?id=100010977722514)
+  [<img src="Resources\linkedin.png" align="center" height="20" width="20"  >](https://www.linkedin.com/in/omar-khaled-097552226/)
+  
+- [**Ziad Elshal**](https://github.com/AbdelrhmanElshafey)
+  [<img src="Resources\facebook.png" align="center" height="20" width="20"  >](https://www.facebook.com/zizo.elshaluwk)
+  [<img src="Resources\linkedin.png" align="center" height="20" width="20"  >](https://www.linkedin.com/in/ziad-elshal-9aa006226/)
+  
+- [**Mohamed Essam**](https://github.com/AbdelrhmanElshafey)
+  [<img src="Resources\facebook.png" align="center" height="20" width="20"  >](https://www.facebook.com/Mohammed.Elbahnasy.18)
+  [<img src="Resources\linkedin.png" align="center" height="20" width="20"  >](https://www.linkedin.com/in/mohamedessam14/)
