@@ -1,4 +1,4 @@
- <p align="center"><img src="Resources\logo_blue.png"  height="100px" width="200px"></p>
+ <p align="center"><img src="Resources\logo_blue.png"  height="85px" width="200px"></p>
  <br>
 
 # Sea-Land_Segmentation-Tracking Using AI 🌍
