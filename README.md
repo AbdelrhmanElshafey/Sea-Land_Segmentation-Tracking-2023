@@ -6,10 +6,10 @@
 ![](https://img.shields.io/badge/License-MIT-blue)![](https://img.shields.io/badge/Version-v1-blue)
 
 <p align="center">
-     <p >
+     <img src="Resources\home_page.jpg">
+      <p align="center">
        <b>HOME PAGE</b>
      </p>
-     <img src="Resources\home_page.jpg">
  </p
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
@@ -54,11 +54,11 @@ and Tracking, employing the U-Net algorithm.
      <p>
        <b>ANALSIS RESULT</b>
      </p>
-     <img src="Resources\Analysis_result.png"  height="500px" width="890px">
+     <img src="Resources\Analysis_result.png">
  </p>
  <p align="center">    
      <p>
        <b>TRACKING RESULT</b>
      </p>
-     <img src="Resources\Trace_result.png"  height="500px" width="890px">
+     <img src="Resources\Trace_result.png">
  </p>
