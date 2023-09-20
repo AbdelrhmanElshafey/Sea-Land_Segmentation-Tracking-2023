@@ -94,5 +94,5 @@ and Tracking, employing the U-Net algorithm.
 - [TensorFlow](https://www.tensorflow.org/) and [Keras](https://keras.io/) 🧠🤖:TensorFlow is an open-source deep learning framework, and Keras is an API that runs on top of it. Together, they provide a powerful platform for building and training neural networks, including image segmentation models.
   
   <p align="center">    
-     <img src="Resources\tools.png">
+     <img src="Resources\tools.jpg">
  </p>
