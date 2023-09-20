@@ -43,8 +43,14 @@ and Tracking, employing the U-Net algorithm.
    
 ## System Analysis 📊
    <p align="center">
-    <img src="Resources\Picture3.png"  height="550px" width="660px">
-    <img src="Resources\use_case.jpg"  height="550px">
+     <p >
+       <b>Data Flow Diagram</b>
+     </p>
+    <img src="Resources\Picture3.png">
+     <p >
+       <b>Use Case</b>
+     </p>
+    <img src="Resources\use_case.jpg">
    </p>
    
 
