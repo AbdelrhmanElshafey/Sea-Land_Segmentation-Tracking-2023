@@ -46,7 +46,7 @@ and Tracking, employing the U-Net algorithm.
      <p>
        - <b>Data Flow Diagram</b>
      </p>
-     <img src="Resources\Picture3.png">
+     <img src="Resources\Picture3.png" height="580px" width="650px">
    </p>
    
    <p align="center">   
