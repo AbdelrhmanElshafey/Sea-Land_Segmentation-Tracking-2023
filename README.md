@@ -60,7 +60,7 @@ and Tracking, employing the U-Net algorithm.
      <p>
        - <b>Activity Diagram</b>
      </p>
-     <img src="Resources\activity_diagram.jpg">   
+     <img src="Resources\activity_diagram.jpg" height="580px" width="650px">   
    </p>
    
 
