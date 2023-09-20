@@ -86,9 +86,13 @@ and Tracking, employing the U-Net algorithm.
 - [Jupyter Notebook](https://jupyter.org/) 📓: is an interactive web-based environment for writing and running code, especially beneficial for data analysis and machine learning model development. You can use Jupyter Notebook to experiment with code, visualize data, and document your workflow.
 - [PyTkinter](https://docs.python.org/3/library/tkinter.html) 🖼️: is a standard Python library for creating GUI applications. It's essential for building the graphical user interface of your "sea-land segmentation" application. You can design windows, dialogs, buttons, and other GUI elements using Tkinter.
 - [Matplotlib](https://matplotlib.org/) 📊: is a popular Python library for creating static, animated, and interactive plots and graphs. In your GUI, you might use Matplotlib to display visualizations or image previews related to your sea-land segmentation.
-- [Google Maps and Geopy](https://geopy.readthedocs.io/en/stable/) 🗺️: If your project involves geographic data or mapping, integrating Google Maps and using the Geopy library can help you display maps, geocode addresses, and calculate distances between locations.
+- [Google Maps](https://developers.google.com/maps/documentation/javascript/overview) and [Geopy](https://geopy.readthedocs.io/en/stable/) 🗺️: If your project involves geographic data or mapping, integrating Google Maps and using the Geopy library can help you display maps, geocode addresses, and calculate distances between locations.
 - [scikit-learn](https://scikit-learn.org/stable/) 🧠: is a machine learning library for Python. It provides tools for data preprocessing, model selection, and evaluation, making it a valuable resource for building machine learning models related to sea-land segmentation.
 - [OpenCV](https://opencv.org/) 📸: is an open-source computer vision library. It's essential for image processing and manipulation tasks, such as pre-processing satellite or aerial images before using them for segmentation.
 - [NumPy](https://numpy.org/) 🔢:  is a fundamental library for numerical computing in Python. It provides support for arrays and matrices, which are often used in machine learning and image processing tasks.
 - [Segmentation Models Library](https://github.com/qubvel/segmentation_models) 🖼️🧠: This library provides pre-built deep learning models for image segmentation tasks. You can use these models as a starting point for your sea-land segmentation model.
 - [TensorFlow](https://www.tensorflow.org/) and [Keras](https://keras.io/) 🧠🤖:TensorFlow is an open-source deep learning framework, and Keras is an API that runs on top of it. Together, they provide a powerful platform for building and training neural networks, including image segmentation models.
+  
+  <p align="center">    
+     <img src="Resources\tools.png">
+ </p>
