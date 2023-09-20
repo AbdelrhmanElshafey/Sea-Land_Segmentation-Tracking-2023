@@ -82,8 +82,9 @@ and Tracking, employing the U-Net algorithm.
 
 ## Packages and Technologies 🔍💻
 - [Xd (Adobe XD)](https://helpx.adobe.com/support/xd.html)🎨: Adobe XD is a powerful design and prototyping tool. It's crucial for designing the graphical user interface (GUI) of your application, allowing you to create visually appealing and user-friendly interfaces. You can design and prototype the layout of your application screens before implementing them.
-- [PyCharm](https://www.jetbrains.com/pycharm/)🐍:  is an Integrated Development Environment (IDE) for Python. It provides a development environment for coding, debugging, and running Python applications, including GUIs. PyCharm's code editor and debugging tools make the development process more efficient.
-- [Django](https://www.djangoproject.com/): Web framework for building web applications using the Python, we use it to build backend
-- [Django REST Framework](https://www.django-rest-framework.org/): Powerful and flexible toolkit for building Web APIs.
-- [scikit-learn](https://scikit-learn.org/stable/): Simple and efficient tools for predictive data analysis
-- [pandas](https://pandas.pydata.org/): Is a fast, powerful, flexible and easy to use open source data analysis
+- [PyCharm](https://www.jetbrains.com/pycharm/)🐍: is an Integrated Development Environment (IDE) for Python. It provides a development environment for coding, debugging, and running Python applications, including GUIs. PyCharm's code editor and debugging tools make the development process more efficient.
+- [Jupyter Notebook](https://jupyter.org/)📓:  is an interactive web-based environment for writing and running code, especially beneficial for data analysis and machine learning model development. You can use Jupyter Notebook to experiment with code, visualize data, and document your workflow.
+- [PyTkinter](https://docs.python.org/3/library/tkinter.html)🖼️:  is a standard Python library for creating GUI applications. It's essential for building the graphical user interface of your "sea-land segmentation" application. You can design windows, dialogs, buttons, and other GUI elements using Tkinter.
+- [Matplotlib](https://matplotlib.org/)📊:  is a popular Python library for creating static, animated, and interactive plots and graphs. In your GUI, you might use Matplotlib to display visualizations or image previews related to your sea-land segmentation.
+- [Google Maps and Geopy](https://geopy.readthedocs.io/en/stable/)🗺️: If your project involves geographic data or mapping, integrating Google Maps and using the Geopy library can help you display maps, geocode addresses, and calculate distances between locations.
+- [scikit-learn](https://scikit-learn.org/stable/)🧠: is a machine learning library for Python. It provides tools for data preprocessing, model selection, and evaluation, making it a valuable resource for building machine learning models related to sea-land segmentation.
