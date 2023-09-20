@@ -120,8 +120,8 @@ and Tracking, employing the U-Net algorithm.
  <p align="center">
     <img src="Resources\qr_code_demo.png"  height="500px" width="500px">
  </p>
+ 
  <br?
-
 
 ## Project Team 👨‍🎓💪
 - [**Abdelrhman Elshafey**](https://github.com/AbdelrhmanElshafey)
