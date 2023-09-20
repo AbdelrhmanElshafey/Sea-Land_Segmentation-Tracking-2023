@@ -125,7 +125,7 @@ and Tracking, employing the U-Net algorithm.
   [<img src="Resources\facebook.png" align="center" height="20" width="20"  >](https://www.facebook.com/diaa.salah.982982)
   [<img src="Resources\linkedin.png" align="center" height="20" width="20"  >](https://www.linkedin.com/in/diaa-rozik-979ba3214/)
   
-- [**Omar Khaled**](https://github.com/AbdelrhmanElshafey)
+- [**Omar Khaled**](https://github.com/okhaled11)
   [<img src="Resources\facebook.png" align="center" height="20" width="20"  >](https://www.facebook.com/profile.php?id=100010977722514)
   [<img src="Resources\linkedin.png" align="center" height="20" width="20"  >](https://www.linkedin.com/in/omar-khaled-097552226/)
   
