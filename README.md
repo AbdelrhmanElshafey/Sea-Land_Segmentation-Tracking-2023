@@ -53,7 +53,7 @@ and Tracking, employing the U-Net algorithm.
      <p>
        - <b>Use Case</b>
      </p>
-     <img src="Resources\use_case.jpg">
+     <img src="Resources\use_case.jpg" height="580px" width="650px">
    </p>
    
    <p align="center">  
