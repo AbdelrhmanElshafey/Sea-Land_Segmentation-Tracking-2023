@@ -79,7 +79,7 @@ and Tracking, employing the U-Net algorithm.
      </p>
      <img src="Resources\Trace_result.png">
  </p>
-
+<br>
 ## Packages and Technologies 🔍💻
 - [Xd (Adobe XD)](https://helpx.adobe.com/support/xd.html) 🎨: Adobe XD is a powerful design and prototyping tool. It's crucial for designing the graphical user interface (GUI) of your application, allowing you to create visually appealing and user-friendly interfaces. You can design and prototype the layout of your application screens before implementing them.
 - [PyCharm](https://www.jetbrains.com/pycharm/) 🐍: is an Integrated Development Environment (IDE) for Python. It provides a development environment for coding, debugging, and running Python applications, including GUIs. PyCharm's code editor and debugging tools make the development process more efficient.
