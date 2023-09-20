@@ -129,7 +129,7 @@ and Tracking, employing the U-Net algorithm.
   [<img src="Resources\facebook.png" align="center" height="20" width="20"  >](https://www.facebook.com/profile.php?id=100010977722514)
   [<img src="Resources\linkedin.png" align="center" height="20" width="20"  >](https://www.linkedin.com/in/omar-khaled-097552226/)
   
-- [**Ziad Elshal**](https://github.com/AbdelrhmanElshafey)
+- [**Ziad Elshal**](https://github.com/zizo100)
   [<img src="Resources\facebook.png" align="center" height="20" width="20"  >](https://www.facebook.com/zizo.elshaluwk)
   [<img src="Resources\linkedin.png" align="center" height="20" width="20"  >](https://www.linkedin.com/in/ziad-elshal-9aa006226/)
   
