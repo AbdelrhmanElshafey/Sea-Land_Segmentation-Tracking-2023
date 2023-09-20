@@ -43,12 +43,16 @@ and Tracking, employing the U-Net algorithm.
      <b>U-NET ARCHITECTURE</b>
    </p>
 
+   <br>
+   
    <p align="center">
     <img src="Resources\acc.jpg">
    </p>
    <p align="center">
      <b>ACCURACY</b>
    </p>
+
+   <br>
    
 ## System Analysis 📊
    <p align="center">
