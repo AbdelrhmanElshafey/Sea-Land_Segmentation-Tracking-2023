@@ -44,7 +44,7 @@ and Tracking, employing the U-Net algorithm.
 ## System Analysis 📊
    <p align="center">
     <img src="Resources\Picture3.png"  height="550px" width="660px">
-    <img src="Resources\use_case"  height="550px">
+    <img src="Resources\use_case.jpg"  height="550px">
    </p>
    
 
