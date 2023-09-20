@@ -21,7 +21,7 @@ Additionally, it can predict potential events such as Reducing the expected prob
 droughts, and other related problems. This will be achieved through the use of AI for Satellite Image Segmentation 
 and Tracking, employing the U-Net algorithm.
 
- ## System Architecture 
+ ## System Architecture ⚙
 - ***Data Collection and Preparation:***
   ##### 1. Google Earth Dataset: 210 images and masks.
   ##### 2. Images: 3-band, 1000×1000, 3~5m resolution.
@@ -64,7 +64,7 @@ and Tracking, employing the U-Net algorithm.
    </p>
    
 
-## Implementation and Design
+## Implementation and Design 🎬💻
 - A project consisting of three pages on the main where the map and image capture are located, the analysis page through which the mask for the image and the proportion of sea and land can be obtained, and the tracking page through which the difference between places can be tracked at certain time periods.
 <br>
  <p align="center">
