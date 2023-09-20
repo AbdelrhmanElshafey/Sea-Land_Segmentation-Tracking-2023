@@ -5,7 +5,12 @@
 
 ![](https://img.shields.io/badge/License-MIT-blue)![](https://img.shields.io/badge/Version-v1-blue)
 
-![HOME PAGE](Resources\home_page.jpg)
+<p align="center">
+     <p>
+       <b>HOME PAGE</b>
+     </p>
+     <img src="Resources\home_page.jpg"  height="500px" width="890px">
+ </p
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
