@@ -1,4 +1,6 @@
- <p align="center"><img src="Resources\logo_blue.png"  height="100px" width="200px"></p> 
+ <p align="center"><img src="Resources\logo_blue.png"  height="100px" width="200px"></p>
+ <br>
+
 # Sea-Land_Segmentation-Tracking Using AI 🌍
 
 ![](https://img.shields.io/badge/License-MIT-blue)![](https://img.shields.io/badge/Version-v1-blue)
