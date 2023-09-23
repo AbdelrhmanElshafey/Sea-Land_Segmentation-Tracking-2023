@@ -33,7 +33,7 @@ and Tracking, employing the U-Net algorithm.
   
  - ***Model Selection and Evaluation:***
    ##### 1. U-Net: Robust, boundary-focused sea-land segmentation.
-   ##### 2. Versatile: Handles variations, limiteddata requirements.
+   ##### 2. Versatile: Handles variations, limite ddata requirements.
    ##### 3. Evaluate Model for deploymentand improvement.
    
    <p align="center">
