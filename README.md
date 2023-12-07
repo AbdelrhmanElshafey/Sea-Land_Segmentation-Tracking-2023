@@ -141,6 +141,13 @@ Under the auspices of the General Secretariat of the Ministry of Defense and wit
  
  <br>
 
+ 
+ <p align="center">
+    <img src="Resources\Poster.jpg"  height="520px" width="420px">
+ </p>
+ 
+ <br>
+
 
 ## Project Team 👨‍🎓💪
 - [**Abdelrhman Elshafey**](https://github.com/AbdelrhmanElshafey)
