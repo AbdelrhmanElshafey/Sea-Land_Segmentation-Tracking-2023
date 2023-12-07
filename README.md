@@ -125,7 +125,21 @@ and Tracking, employing the U-Net algorithm.
 
 ## Competitions 🏆 🏅
 
+We have successfully participated in our graduation project under the supervision of Dr. Nahy Hekal and Eng. Abeer Hekal. It is an honor to have the distinguished presence of the following figures:
 
+- Brigadier General Mohamed Hegazy, Commander of the Air Defense Forces.
+- Major General Abdel Aziz, Deputy Commander of the Air Force.
+- Major General Abdel Aziz Omar, Deputy Commander of the Air Defense Forces.
+- Brigadier General Ihab Al-Fayoumi, Director of the Air Defense College.
+  
+Under the auspices of the General Secretariat of the Ministry of Defense and with technical support from IEEE-MTT-S, IEEE-APS, and IEEE Egypt Section, we were able to advance to the final stages in the International Telecommunications Conference ITC-EGYPT ADC 2024. Thanks to all my friends in the team for their efforts, we achieved the 42nd position out of 533 projects.
+
+ <br>
+ <p align="center">
+    <img src="Resources\ITC Certificate.jpg"  height="400px" width="600px">
+ </p>
+ 
+ <br>
 
 
 ## Project Team 👨‍🎓💪
