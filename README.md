@@ -123,6 +123,11 @@ and Tracking, employing the U-Net algorithm.
  
  <br>
 
+## Competitions 🏆 🏅
+
+
+
+
 ## Project Team 👨‍🎓💪
 - [**Abdelrhman Elshafey**](https://github.com/AbdelrhmanElshafey)
   [<img src="Resources\facebook.png" align="center" height="20" width="20"  >](https://www.facebook.com/AbdalrhmanElshafey)
